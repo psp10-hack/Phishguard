@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
+
 .DS_Store
 
 .venv/
@@ -7,12 +8,3 @@ venv/
 env/
 
 .ipynb_checkpoints/
-
-# Large/local datasets
-data/*.csv
-
-# Generated images
-data/*.png
-
-# Trained model
-models/*.pkl
